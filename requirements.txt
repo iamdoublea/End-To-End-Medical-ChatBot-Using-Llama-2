@@ -1,0 +1,8 @@
+ctransformer==0.2.5  #to load the quantised model
+sentence-transformer==2.2.2
+pinecone-client
+langchain==0.0.255
+flask
+
+
+
